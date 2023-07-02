@@ -5,6 +5,6 @@ env = Env()
 env.read_env()
 
 # .env fayl ishinen tómendegilerdi oqıymız
-BOT_TOKEN = env.str("BOT_TOKEN")  # bot token
+BOT_TOKEN = env.str("1991353536:AAHZ-YIQfg5g87O9jC4XfrgUag68zDKwclw")  # bot token
 ADMINS = env.list("ADMINS")  # adminler listi
-IP = env.str("ip")  # xosting ip adress
+IP = env.str("80")  # xosting ip adress
