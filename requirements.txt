@@ -1,2 +1,3 @@
 aiogram~=2.14
 environs~=8.0.0
+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
